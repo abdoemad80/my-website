@@ -63,7 +63,9 @@
         <ul>
             <li>HTML5</li>
             <li>CSS3</li>
+            <li> JavaScript</li>
             <li>تصميم واجهات</li>
+            <li>CayberSecurity</li>
         </ul>
     </div>
 </section>
@@ -72,14 +74,14 @@
     <h2>📞 تواصل معي</h2>
     <div class="card">
         <p>
-            📧 Email: example@gmail.com <br>
+            📧 Email: abdoemadx92@gmail.com <br>
             🌍 GitHub: <a href="https://github.com" target="_blank">github.com</a>
         </p>
     </div>
 </section>
 
 <footer>
-    © 2026 - BODEY
+    © 2026 -footer
 </footer>
 
 </body>
